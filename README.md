@@ -19,8 +19,8 @@ Sidekick is a Python-based assistant application designed to help users complete
 ## Installation 🛠️
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/aidoanto123/SideKick-App.git
+   cd SideKick-App
 
 2. `Install dependencies`
   ~~~bash
